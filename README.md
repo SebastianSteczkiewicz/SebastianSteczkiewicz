@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SebastianSteczkiewicz
+- 👋 Hi, I’m Sebastian Steczkiewicz.
 - 👀 I’m interested in Bioinformatics, games and IT HR.
 - 🌱 I’m currently learning Python with an interest in Machine Learning.
 - 💞️ I’m looking to collaborate with developers that are looking for new interesting projects.
